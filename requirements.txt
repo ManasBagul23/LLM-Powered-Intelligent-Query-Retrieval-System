@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+faiss-cpu
+pymupdf
+python-docx
+numpy
+pandas
+pydantic
+openai
+chromadb
+httpx
+python-dotenv
